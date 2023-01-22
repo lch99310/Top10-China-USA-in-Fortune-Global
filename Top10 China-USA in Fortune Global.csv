@@ -1,0 +1,64 @@
+﻿year,name,industry,revenues,profits,employees,hqcity,Country
+2019,Walmart,General Merchandisers,514405,6670,2200000,Bentonville,USA
+2019,Sinopec Group,Petroleum Refining,414649.9,5845,619151,Beijing,China
+2019,China National Petroleum,Petroleum Refining,392976.6,2270.5,1382401,Beijing,China
+2019,State Grid,Utilities,387056,8174.8,917717,Beijing,China
+2019,Exxon Mobil,Petroleum Refining,290212,20840,71000,Irving,USA
+2019,Apple,"Computers, Office Equipment",265595,59531,132000,Cupertino,USA
+2019,Berkshire Hathaway,Insurance: Property and Casualty (Stock),247837,4021,389000,Omaha,USA
+2019,Amazon.com,Internet Services and Retailing,232887,10073,647500,Seattle,USA
+2019,UnitedHealth Group,Health Care: Insurance and Managed Care,226247,11986,300000,Minnetonka,USA
+2019,McKesson,Wholesalers: Health Care,214319,34,70000,Irving,USA
+2019,CVS Health,Health Care: Pharmacy and Other Services,194579,-594,295000,Woonsocket,USA
+2019,China State Construction Engineering,"Engineering, Construction",181524.5,3159.5,302827,Beijing,China
+2019,AT&T,Telecommunications,170756,19370,268220,Dallas,USA
+2019,Industrial & Commercial Bank of China,Banks: Commercial and Savings,168979,45002.3,449296,Beijing,China
+2019,AmerisourceBergen,Wholesalers: Health Care,167939.6,1658.4,20500,Chesterbrook,USA
+2019,Ping An Insurance,"Insurance: Life, Health (stock)",163597.4,16237.2,376900,Shenzhen,China
+2019,China Construction Bank,Banks: Commercial and Savings,151110.8,38498.4,366996,Beijing,China
+2019,Agricultural Bank of China,Banks: Commercial and Savings,139523.6,30656.5,477526,Beijing,China
+2019,SAIC Motor,Motor Vehicles and Parts,136392.5,5443.8,147738,Shanghai,China
+2019,Bank of China,Banks: Commercial and Savings,127714.1,27225.2,310119,Beijing,China
+2019,Huawei,"Computers, Office Equipment",122972,8971,194000,Shenzhen,China
+2020,Walmart,General Merchandisers,523964,14881,2200000,Bentonville,USA
+2020,Sinopec Group,Petroleum Refining,407009,6793.2,582648,Beijing,China
+2020,State Grid,Utilities,383906,7970,907677,Beijing,China
+2020,China National Petroleum,Petroleum Refining,379130,4443.2,1344410,Beijing,China
+2020,Amazon,Internet Services and Retailing,280522,11588,798000,Seattle,USA
+2020,Exxon Mobil,Petroleum Refining,264938,14340,74900,Irving,USA
+2020,Apple,"Computers, Office Equipment",260174,55256,137000,Cupertino,USA
+2020,CVS Health,Health Care: Pharmacy and Other Services,256776,6634,290000,Woonsocket,USA
+2020,Berkshire Hathaway,Insurance: Property and Casualty (Stock),254616,81417,391500,Omaha,USA
+2020,UnitedHealth Group,Health Care: Insurance and Managed Care,242155,13839,325000,Minnetonka,USA
+2020,McKesson,Wholesalers: Health Care,231051,900,70000,Irving,USA
+2020,China State Construction Engineering,Engineering & Construction,205839,3333,335038,Beijing,China
+2020,Ping An Insurance,"Insurance: Life, Health (stock)",184280,21626.7,372194,Shenzhen,China
+2020,AT&T,Telecommunications,181193,13903,247800,Dallas,USA
+2020,AmerisourceBergen,Wholesalers: Health Care,179589,855.4,21500,Chesterbrook,USA
+2020,Industrial & Commercial Bank of China,Banks: Commercial and Savings,177069,45194.5,445106,Beijing,China
+2020,China Construction Bank,Banks: Commercial and Savings,158884,38609.7,370169,Beijing,China
+2020,Agricultural Bank of China,Banks: Commercial and Savings,147313,30701.2,467631,Beijing,China
+2020,Bank of China,Banks: Commercial and Savings,135091,27126.9,309384,Beijing,China
+2020,China Life Insurance,"Insurance: Life, Health (stock)",131244,4660.3,180401,Beijing,China
+2020,Huawei,"Computers, Office Equipment",136717,9916,197000,Shenzhen,China
+2021,Walmart,General Merchandisers,559151,13510,2300000,Bentonville,USA
+2021,State Grid,Utilities,386617.7,5580.4,896360,Beijing,China
+2021,Amazon,Internet Services and Retailing,386064,21331,1298000,Seattle,USA
+2021,China National Petroleum,Petroleum Refining,283957.6,4575.2,1242245,Beijing,China
+2021,Sinopec Group,Petroleum Refining,283727.6,6205.2,553833,Beijing,China
+2021,Apple,"Computers, Office Equipment",274515,57411,147000,Cupertino,USA
+2021,CVS Health,Health Care: Pharmacy and Other Services,268706,7179,256500,Woonsocket,USA
+2021,UnitedHealth Group,Health Care: Insurance and Managed Care,257141,15403,330000,Minnetonka,USA
+2021,Berkshire Hathaway,Insurance: Property and Casualty (Stock),245510,42521,360000,Omaha,USA
+2021,McKesson,Wholesalers: Health Care,238228,-4539,67500,Irving,USA
+2021,China State Construction Engineering,Engineering & Construction,234425,3578.4,356864,Beijing,China
+2021,Ping An Insurance,"Insurance: Life, Health (stock)",191509.4,20738.9,362035,Shenzhen,China
+2021,AmerisourceBergen,Wholesalers: Health Care,189893.9,-3408.7,21500,Chesterbrook,USA
+2021,Industrial & Commercial Bank of China,Banks: Commercial and Savings,182794.4,45783.4,439787,Beijing,China
+2021,Alphabet,Internet Services and Retailing,182527,40269,135301,Mountain View,USA
+2021,Exxon Mobil,Petroleum Refining,181502,-22440,72000,Irving,USA
+2021,China Construction Bank,Banks: Commercial and Savings,172000.2,39282.5,373814,Beijing,China
+2021,Agricultural Bank of China,Banks: Commercial and Savings,153884.6,31293.4,462592,Beijing,China
+2021,China Life Insurance,"Insurance: Life, Health (stock)",144589.1,4648.1,183417,Beijing,China
+2021,China Railway Engineering Group,Engineering & Construction,141383.6,1638.8,308483,Beijing,China
+2021,Huawei,"Computers, Office Equipment",99887,17837,195000,Shenzhen,China
